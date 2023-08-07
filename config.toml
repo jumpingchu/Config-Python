@@ -1,0 +1,14 @@
+[DB_INFO]
+
+    [DB_INFO.MYSQL]
+        HOST = '127.0.0.1'
+        USERNAME = 'mysql_root'
+        PASSWORD = 'mysql_password'
+        PORT = 3306
+        DATABASE = 'MYSQL_DATA'
+        
+    [DB_INFO.MSSQL]
+        SERVER = 'test.database.windows.net'
+        USERNAME = 'mssql_root'
+        PASSWORD = 'mssql_password'
+        DATABASE = 'MSSQL_DATA'
